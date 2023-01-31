@@ -8,7 +8,9 @@
     <p>4.Clique no botão "Calcular".</p>
     <img src="https://user-images.githubusercontent.com/110619692/215772596-f24b7315-ba30-4d66-83e2-3b917a2dd8f0.gif" alt="">
     <h2>Tecnologias utilizadas</h2>
-    <p>HTML</p>
-    <p>CSS</p>
-    <p>JavaScript</p>
-</center>
+    <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    </ul>
+     </center>
